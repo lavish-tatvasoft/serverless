@@ -1,0 +1,21 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lavish Patel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "helmet": "^3.12.1",
+    "mongoose": "^5.1.7",
+    "serverless-http": "^1.5.5"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.20.2"
+  }
+}
