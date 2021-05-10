@@ -2,11 +2,11 @@
 serverless API using Lambda Expression Can Deploy on AWS Server Without Config
 
 end points
-// Get Method   
+# Get Method   
  {{baseurl}}/api/notes
-// Put Method
+# Put Method
  {{baseurl}}/api/notes/:id
-// Get Method
+# Get Method
  {{baseurl}}/api/notes/
-// Delete Method
+# Delete Method
  {{baseurl}}/api/notes/:id
